@@ -1,0 +1,24 @@
+.container-fluid{
+    background-color:darkslategray;
+    
+}
+
+.comp{
+    color: #4dff4d;
+    font-family: 'Courgette', cursive;
+}
+.arab{
+    color: #00b300;
+    font-family: 'Kaushan Script', cursive;
+}
+.title{
+    color: #4dff4d;
+    font-family: 'Kaushan Script', cursive;
+}
+.cont{ background-color: #e6ffe6;}
+.title1{
+    color:#00b300;
+    font-family: 'Kaushan Script', cursive;
+}
+.p{font-family: 'Courgette', cursive;
+}
